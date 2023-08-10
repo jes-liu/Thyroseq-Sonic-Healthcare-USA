@@ -1,0 +1,1 @@
+@monthly path/to/venv path/to/main.py

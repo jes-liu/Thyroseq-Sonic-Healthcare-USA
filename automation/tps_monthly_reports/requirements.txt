@@ -1,0 +1,4 @@
+jaydebeapi
+pyyaml
+pypdf2
+pandas
